@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(20,20,20);
+    
+}
+
+.FalconLogo {
+    position: fixed;
+    top: 150px;
+    left: 300px;
+    width: 600px;
+    display: inline-block;
+}
+
+.Title {
+    position: fixed;
+    top: 195px;
+    left: 775px;
+    background-color: transparent;
+    color: lightgray;
+    display: inline-block;
+    font-size: 86px;
+    font-family: 'Roboto', Arial;
+}
+
+.GetScriptBTN {
+    background-color: #a53f3f;
+    font-family: 'Roboto', Arial;
+    border-width: 0px;
+    border-radius: 6px;
+    color: whitesmoke;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    box-shadow: 20px,40px, #3b3b3b;
+    position: fixed;
+    top: 500px;
+    left: 775px;
+
+}
+.DiscordBTN {
+    background-color: #a53f3f;
+    font-family: 'Roboto', Arial;
+    border-width: 0px;
+    border-radius: 6px;
+    color: whitesmoke;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    box-shadow: 20px,40px, #3b3b3b;
+    position: fixed;
+    top: 500px;
+    left: 935px;
+
+}
+
+.GetScriptBTN:hover,
+.DiscordBTN:hover {
+    
+    background-color: #8c3535;
+
+    
+}
